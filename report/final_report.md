@@ -1,4 +1,4 @@
-# 🚆 Indian Railways — Train Operations Analytics Report
+# Indian Railways — Train Operations Analytics Report
 
 *Compiled from the four-level data-engineering pipeline (Levels 1–4).*
 
